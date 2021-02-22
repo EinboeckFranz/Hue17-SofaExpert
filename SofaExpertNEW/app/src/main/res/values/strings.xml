@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SofaExpertNEW</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ImageViewDescription">Shows the IMG</string>
+    <string name="descriptionPlaceholder">DESCRIPTION</string>
+    <string name="releaseDatePlaceholder">XXXX-XX-XX</string>
+    <string name="movieImageViewDescription">MoviePoster</string>
+    <string name="ratingPlaceholder">X.X / 10</string>
+    <string name="movieTitlePlaceholder">MOVIE TITLE</string>
+</resources>
